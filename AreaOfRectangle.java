@@ -1,4 +1,3 @@
-
 public class AreaOfRectangle {
 
 	public static void main(String[] args) {
@@ -12,3 +11,4 @@ public class AreaOfRectangle {
 	}
 
 }
+
